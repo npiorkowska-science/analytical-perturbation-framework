@@ -1,0 +1,291 @@
+{
+  "project_title": "Analytical perturbation reveals hidden instability of biological phenotypes",
+  "target_journal": "Bioinformatics",
+  "active_mode": "MANUSCRIPT_FINAL",
+  "random_seed": 42,
+  "min_cluster_fraction": 0.05,
+  "max_missing_feature": 0.45,
+  "input_file": "data/pcos_input.xlsx",
+  "execution_modes": {
+    "SMOKE_TEST": {
+      "seeds": [
+        0,
+        1
+      ],
+      "max_specs": 12,
+      "bootstrap_n": 30
+    },
+    "PILOT_REVIEW_FAST": {
+      "seeds": [
+        0,
+        1,
+        2
+      ],
+      "max_specs": 48,
+      "bootstrap_n": 100
+    },
+    "PUBLICATION_FULL": {
+      "seeds": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49
+      ],
+      "max_specs": 300,
+      "bootstrap_n": 1000
+    },
+    "MANUSCRIPT_FINAL": {
+      "seeds": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "max_specs": 120,
+      "bootstrap_n": 500,
+      "description": "balanced representative perturbation design for manuscript analyses"
+    },
+    "PUBLICATION_EXHAUSTIVE": {
+      "seeds": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49
+      ],
+      "max_specs": null,
+      "bootstrap_n": 300,
+      "description": "optional exhaustive run; computationally expensive, not required for the frozen manuscript package"
+    }
+  },
+  "grids": {
+    "fast_imputation": [
+      "complete_case",
+      "median",
+      "knn"
+    ],
+    "full_imputation": [
+      "complete_case",
+      "median",
+      "knn",
+      "mice",
+      "missforest_like"
+    ],
+    "fast_scaling": [
+      "zscore",
+      "robust"
+    ],
+    "full_scaling": [
+      "zscore",
+      "robust",
+      "quantile"
+    ],
+    "fast_reduction": [
+      "none",
+      "pca80"
+    ],
+    "full_reduction": [
+      "none",
+      "pca70",
+      "pca80",
+      "pca90",
+      "ica"
+    ],
+    "fast_clustering": [
+      "kmeans",
+      "gmm",
+      "hierarchical"
+    ],
+    "full_clustering": [
+      "kmeans",
+      "gmm",
+      "hierarchical",
+      "consensus"
+    ],
+    "optional_expensive_clustering": [
+      "spectral"
+    ]
+  },
+  "feature_definitions": {
+    "phenotyping_core": [
+      "LH",
+      "FSH",
+      "TESTO_TOTAL",
+      "SHBG",
+      "DHEAS",
+      "ANDRO",
+      "AMH",
+      "CORT_8",
+      "CORT_23",
+      "TSH",
+      "FT4",
+      "ATA_TPO",
+      "ANTI_TG",
+      "GLU0",
+      "GLU120",
+      "INS0",
+      "INS120",
+      "TCHOL",
+      "LDL",
+      "HDL",
+      "TG",
+      "WBC",
+      "NEUT",
+      "LYMPH",
+      "PLT",
+      "RDW",
+      "MPV",
+      "CRP"
+    ],
+    "strict_validation": [
+      "AGE",
+      "BMI",
+      "ALT",
+      "AST",
+      "GFR",
+      "HBA1C",
+      "FERRITIN",
+      "VITD",
+      "PRL"
+    ],
+    "derived_clinical_translation": [
+      "TG_HDL",
+      "NON_HDL",
+      "HOMA_IR",
+      "QUICKI",
+      "FAI",
+      "IGT",
+      "ATHEROGENIC_TG_HDL",
+      "NON_HDL_HIGH"
+    ]
+  },
+  "code_readiness_notes": {
+    "parquet_fallback": "All notebooks write/read CSV fallback if pyarrow is unavailable.",
+    "colab_install": "Set PCOS_AUTO_INSTALL=1 in Colab to install requirements automatically.",
+    "publication_full": "Use PCOS_PIPELINE_MODE=PUBLICATION_FULL for final frozen results.",
+    "manuscript_final": "MANUSCRIPT_FINAL is the default frozen run used to generate manuscript-ready tables and figures.",
+    "spectral": "Spectral clustering is provided as an optional expensive extension; frozen Colab manuscript run uses kmeans, GMM, hierarchical, and consensus.",
+    "iterative_imputation": "True Bayesian-ridge iterative chained-equation and ExtraTrees iterative imputation are automatically used in MANUSCRIPT_FINAL/PUBLICATION modes; fast proxy implementations are restricted to smoke/pilot execution."
+  },
+  "submission_readiness": {
+    "code_status": "final Colab-only pipeline; all notebooks self-contained; no external .py modules",
+    "included_outputs": "MANUSCRIPT_FINAL outputs generated on the uploaded real PCOS dataset",
+    "data_sharing_required": "deposit de-identified clinical data or reviewer-accessible data package plus code archive (Zenodo/OSF/Figshare/GitHub release)"
+  },
+  "primary_population": {
+    "group_column": "group",
+    "include_values": [
+      "PCOS"
+    ],
+    "controls_role": "excluded from primary phenotyping; retained only for optional sensitivity analysis"
+  },
+  "analysis_extensions": {
+    "pairwise_agreement": true,
+    "label_invariant_patient_robustness": true,
+    "pipeline_effect_decomposition": true,
+    "bootstrap_confidence_intervals": [
+      "pairwise ARI",
+      "patient co-assignment robustness",
+      "feature robustness",
+      "silhouette",
+      "posterior uncertainty"
+    ],
+    "terminology": "reference analytical pipeline (not baseline)",
+    "explicit_bootstrap_ci_exports": true,
+    "formal_distance_based_variance_decomposition": true,
+    "complete_pairwise_supplement_workbook": true
+  },
+  "framework_version": "6.0-final-statistical-strengthening"
+}
