@@ -1,0 +1,38 @@
+standard_feature,source_columns,non_missing,missing_pct
+AGE,Wiek (n=1286),1286,0.0
+BMI,,0,1.0
+LH,LH (LH) (n=1168),1168,0.09175738724727839
+FSH,FSH (FSH) (n=1168),1168,0.09175738724727839
+TESTO_TOTAL,Testosteron (L_TESTOS) (n=1167),1167,0.09253499222395023
+SHBG,SHBG (L_SHGB) (n=1166); SHBG (SHGB) (n=1),1167,0.09253499222395023
+DHEAS,DHEAS (DHEA) (n=1171),1171,0.08942457231726283
+ANDRO,Androstendion (ANDRO) (n=682); Androstendion (I31) (n=189); Androstendion (I31) (ANDRO) (n=255),1126,0.12441679626749612
+AMH,AMH (hormon anty-Mullerowski) (AMH_CP) (n=976); AMH-anty Mullerian Hormon (AMH) (n=147),1123,0.12674961119751166
+CORT_8,Kortyzol godz. 08:00 (KOR) (n=1165); Kortyzol na czczo (KORCZ) (n=1),1166,0.09331259720062209
+CORT_23,Kortyzol godz. 23:00 (KOR23) (n=1167),1167,0.09253499222395023
+TSH,TSH (TSH) (n=1168),1168,0.09175738724727839
+FT4,FT4 (FT4) (n=1167),1167,0.09253499222395023
+ATA_TPO,Anty-TPO (ATA_TPO) (n=1043),1043,0.18895800933125972
+ANTI_TG,Anty-TG (O18) (n=21); Anty-TG (p/c przeciw tyreoglobulinie) (ATG) (n=254); P/c antytyreoglobulinowe (anty-Tg) (ANTYTG2) (n=682),957,0.2558320373250389
+GLU0,Krzywa cukrowa - 2 punktowa (L_GLU_0) (n=1150); Glukoza (L_GLU) (n=2),1151,0.10497667185069985
+GLU120,Krzywa cukrowa - 2 punktowa (GLU120) (n=1149),1149,0.10653188180404355
+INS0,"Insulina po 75g glukozy (3pkt.) (INSUL_0) (n=222); Insulina po obciążeniu 75 g glukozy 0,1,2,3 (L97 0m) (n=83); Insulina po obciążeniu 75 g glukozy 0,1,2,3 (L97_0) (n=62); Insulina (INSUL) (n=744)",1111,0.13608087091757387
+INS120,"Insulina po 75g glukozy (3pkt.) (INSUL_2) (n=221); Insulina po obciążeniu 75 g glukozy 0,1,2,3 (L97 120m) (n=83); Insulina po obciążeniu 75 g glukozy 0,1,2,3 (L97_2) (n=62)",366,0.7153965785381027
+TCHOL,Cholesterol całkowity (TCHOL) (n=1169),1169,0.09097978227060653
+LDL,LDL cholesterol (LDL) (n=1169),1169,0.09097978227060653
+HDL,HDL cholesterol (HDL) (n=1169),1169,0.09097978227060653
+TG,Triglicerydy (TG) (n=1169),1169,0.09097978227060653
+WBC,"Morfologia CBC (WBC) (n=44); Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (WBC) (n=901)",945,0.2651632970451011
+NEUT,"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (NEUT#) (n=901)",901,0.29937791601866254
+LYMPH,"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (LIM#) (n=901)",901,0.29937791601866254
+PLT,"Morfologia CBC (PLT) (n=44); Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (PLT) (n=901)",945,0.2651632970451011
+RDW,"Morfologia CBC (RDW) (n=44); Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (RDW) (n=901)",945,0.2651632970451011
+MPV,"Morfologia CBC (MPV) (n=44); Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (MPV) (n=901)",945,0.2651632970451011
+CRP,Białko C-reaktywne (CRP) (n=19),19,0.9852255054432348
+ALT,ALAT (ALT) (n=263),263,0.7954898911353032
+AST,ASPAT (AST) (n=263),263,0.7954898911353032
+GFR,MDRD GFR (MDRD) (n=104),104,0.9191290824261276
+HBA1C,Hemoglobina glikowana (HBA1C_1) (n=23); Hemoglobina glikowana (HBA1C_2) (n=23); Hemoglobina glikowana (L53.IFC) (n=4); Hemoglobina glikowana (L55) (n=4),27,0.97900466562986
+FERRITIN,Ferrytyna (FERR) (n=2); Ferrytyna (L05) (n=1),3,0.9976671850699844
+VITD,Witamina D (25- hydroksywitamina D3) (WITD) (n=808),808,0.37169517884914466
+PRL,PRL godz. 10:00 (PRL10) (n=1165); PRL 10:00 i 10:00 po PEG (PRL10) (n=1),1165,0.09409020217729394
