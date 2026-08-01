@@ -1,0 +1,41 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:       ari_vs_reference   R-squared:                       0.477
+Model:                            OLS   Adj. R-squared:                  0.386
+Method:                 Least Squares   F-statistic:                     5.248
+Date:                Fri, 10 Jul 2026   Prob (F-statistic):           4.84e-08
+Time:                        06:43:21   Log-Likelihood:                 85.867
+No. Observations:                 116   AIC:                            -135.7
+Df Residuals:                      98   BIC:                            -86.17
+Df Model:                          17                                         
+Covariance Type:            nonrobust                                         
+====================================================================================================
+                                       coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------------------------
+Intercept                           -0.0673      0.050     -1.334      0.185      -0.168       0.033
+C(imputation)[T.knn]                 0.0627      0.038      1.641      0.104      -0.013       0.139
+C(imputation)[T.median]              0.0467      0.037      1.261      0.210      -0.027       0.120
+C(imputation)[T.mice]                0.0718      0.038      1.866      0.065      -0.005       0.148
+C(imputation)[T.missforest_like]     0.0520      0.038      1.382      0.170      -0.023       0.127
+C(scaling)[T.robust]                 0.1120      0.029      3.857      0.000       0.054       0.170
+C(scaling)[T.zscore]                 0.1244      0.029      4.245      0.000       0.066       0.183
+C(reduction)[T.none]                 0.0344      0.039      0.891      0.375      -0.042       0.111
+C(reduction)[T.pca70]                0.0697      0.038      1.811      0.073      -0.007       0.146
+C(reduction)[T.pca80]                0.0295      0.040      0.729      0.468      -0.051       0.110
+C(reduction)[T.pca90]                0.0621      0.040      1.570      0.120      -0.016       0.141
+C(clustering)[T.gmm]                 0.1870      0.033      5.629      0.000       0.121       0.253
+C(clustering)[T.hierarchical]        0.0006      0.035      0.016      0.987      -0.069       0.070
+C(clustering)[T.kmeans]             -0.0123      0.033     -0.372      0.711      -0.078       0.053
+C(seed)[T.1]                        -0.0054      0.038     -0.140      0.889      -0.082       0.071
+C(seed)[T.2]                        -0.0357      0.038     -0.942      0.348      -0.111       0.039
+C(seed)[T.3]                         0.0035      0.038      0.091      0.928      -0.073       0.080
+C(seed)[T.4]                        -0.0361      0.038     -0.948      0.345      -0.112       0.039
+==============================================================================
+Omnibus:                       12.599   Durbin-Watson:                   2.123
+Prob(Omnibus):                  0.002   Jarque-Bera (JB):               16.735
+Skew:                           0.579   Prob(JB):                     0.000232
+Kurtosis:                       4.456   Cond. No.                         9.09
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
