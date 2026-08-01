@@ -1,0 +1,6 @@
+stage,n_rows,n_columns,detail
+source data_clean,1331,224,before primary population filtering
+exact duplicate removal,1331,224,0 exact duplicate rows; 0 duplicate column names
+primary PCOS cohort,1286,225,group in ['PCOS']
+all-missing raw columns flagged,1286,31,excluded downstream during mapped feature QC
+technical columns flagged,1286,2,group; subject_id

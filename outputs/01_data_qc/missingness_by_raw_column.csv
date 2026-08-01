@@ -1,0 +1,226 @@
+column,missing_n,missing_pct,dtype
+analysis_id,0,0.0,object
+Wiek,0,0.0,int64
+group,0,0.0,object
+subject_id,0,0.0,object
+17 - OH progesteron (L79) (17-OHPG),321,0.24961119751166408,float64
+17 OH progesteron (L79),1074,0.8351477449455676,float64
+ALAT (ALT),1023,0.7954898911353032,float64
+AMH (hormon anty-Mullerowski) (AMH_CP),310,0.2410575427682737,float64
+AMH ng/ml,1286,1.0,float64
+AMH-anty Mullerian Hormon (AMH),1139,0.885692068429238,float64
+APTT Czas kaolinowo-kefalinowy (APTTCZ),1281,0.9961119751166407,float64
+ASO - ilościowo (ASOIL),1285,0.9992223950233281,float64
+ASPAT (AST),1023,0.7954898911353032,float64
+Androstendion (ANDRO),604,0.46967340590979784,float64
+Androstendion (I31),1097,0.8530326594090202,float64
+Androstendion (I31) (ANDRO),1031,0.8017107309486781,float64
+Anty - HCV (L_ANTHCV),1285,0.9992223950233281,object
+Anty-TG (O18),1265,0.9836702954898912,float64
+Anty-TG (p/c przeciw tyreoglobulinie) (ATG),1032,0.80248833592535,float64
+Anty-TPO (ATA_TPO),243,0.18895800933125972,float64
+BMI kg/m2,1286,1.0,float64
+Białko C-reaktywne (CRP),1267,0.9852255054432348,float64
+Bilirubina całkowita (TBIL),1210,0.9409020217729394,float64
+CEA (CEA),1285,0.9992223950233281,float64
+Ca125 (CA125),1245,0.9681181959564541,float64
+Ca19.9 (CA199),1285,0.9992223950233281,float64
+Cholesterol całkowity (TCHOL),117,0.09097978227060653,float64
+D-dimery (DDIMER),1284,0.9984447900466563,float64
+DHEAS (DHEA),115,0.08942457231726283,float64
+DHEAS ug/dl,1286,1.0,float64
+Dobowy rytm tolerancji glukozy (L_G1030),1279,0.994556765163297,float64
+Dobowy rytm tolerancji glukozy (L_G1200),1279,0.994556765163297,float64
+Dobowy rytm tolerancji glukozy (L_G1500),1279,0.994556765163297,float64
+Dobowy rytm tolerancji glukozy (L_G1800),1279,0.994556765163297,float64
+Dobowy rytm tolerancji glukozy (L_G2100),1279,0.994556765163297,float64
+Dobowy rytm tolerancji glukozy (L_G2400),1279,0.994556765163297,float64
+Dobowy rytm tolerancji glukozy (L_G330),1279,0.994556765163297,float64
+Dobowy rytm tolerancji glukozy (L_G700),1279,0.994556765163297,float64
+Dokument (NAZWA),1268,0.9860031104199067,float64
+Estradiol (ESTRA),1229,0.9556765163297045,float64
+Estradiol (L_ESTRA),1252,0.973561430793157,float64
+FSH (FSH),118,0.09175738724727839,float64
+FSH 0' 30' 60' (L_FSH0),1271,0.9883359253499222,float64
+FSH 0' 30' 60' (L_FSH30),1271,0.9883359253499222,float64
+FSH 0' 30' 60' (L_FSH60),1271,0.9883359253499222,float64
+FSH IU/l,1286,1.0,float64
+FT3 (FT3),1280,0.995334370139969,float64
+FT4 (FT4),119,0.09253499222395023,float64
+Ferrytyna (FERR),1284,0.9984447900466563,float64
+Ferrytyna (L05),1285,0.9992223950233281,float64
+Fibrynogen (L_FIB),1283,0.9976671850699844,float64
+Fosforany nieorganiczne (FOSFOR),1284,0.9984447900466563,float64
+GH (hormon wzrostu) (L_GH),1285,0.9992223950233281,float64
+Gamma Glutamylotranspeptydaza (GGTP),1209,0.9401244167962675,float64
+Glukoza (L_GLU),1284,0.9984447900466563,float64
+"Grypa A, B, RSV, SARS-CoV2 antygen - badanie jakościowe (COV2_G)",1285,0.9992223950233281,object
+"Grypa A, B, RSV, SARS-CoV2 antygen - badanie jakościowe (GRYA)",1285,0.9992223950233281,object
+"Grypa A, B, RSV, SARS-CoV2 antygen - badanie jakościowe (GRYB)",1285,0.9992223950233281,object
+"Grypa A, B, RSV, SARS-CoV2 antygen - badanie jakościowe (GRYRSV)",1285,0.9992223950233281,object
+HBSAG (L_HBSAG),1235,0.9603421461897356,object
+HBsAg (L_HBSAG),173,0.13452566096423016,object
+HDL cholesterol (HDL),117,0.09097978227060653,float64
+HbsAg (HBSAG),1283,0.9976671850699844,object
+Hemoglobina glikowana (HBA1C_1),1263,0.9821150855365475,float64
+Hemoglobina glikowana (HBA1C_2),1263,0.9821150855365475,float64
+Hemoglobina glikowana (L53.IFC),1282,0.9968895800933126,float64
+Hemoglobina glikowana (L55),1282,0.9968895800933126,float64
+IGF-1 (insulinopodobny czynnik wzrostu 1) (IGF1_L),1285,0.9992223950233281,float64
+Insulina (INSUL),542,0.4214618973561431,float64
+Insulina po 75g glukozy (3pkt.) (INSUL_0),1064,0.8273716951788491,float64
+Insulina po 75g glukozy (3pkt.) (INSUL_1),1065,0.828149300155521,float64
+Insulina po 75g glukozy (3pkt.) (INSUL_2),1065,0.828149300155521,float64
+"Insulina po obciążeniu 75 g glukozy 0,1,2,3 (L97 0m)",1203,0.9354587869362364,float64
+"Insulina po obciążeniu 75 g glukozy 0,1,2,3 (L97 120m)",1203,0.9354587869362364,float64
+"Insulina po obciążeniu 75 g glukozy 0,1,2,3 (L97 30m)",1203,0.9354587869362364,float64
+"Insulina po obciążeniu 75 g glukozy 0,1,2,3 (L97 60m)",1203,0.9354587869362364,float64
+"Insulina po obciążeniu 75 g glukozy 0,1,2,3 (L97_0)",1224,0.9517884914463453,float64
+"Insulina po obciążeniu 75 g glukozy 0,1,2,3 (L97_1)",1225,0.9525660964230172,float64
+"Insulina po obciążeniu 75 g glukozy 0,1,2,3 (L97_2)",1224,0.9517884914463453,float64
+"Jonogram (Sód, potas, chlorki) (L_CI)",1202,0.9346811819595645,float64
+"Jonogram (Sód, potas, chlorki) (L_K)",1202,0.9346811819595645,float64
+"Jonogram (Sód, potas, chlorki) (L_NA)",1202,0.9346811819595645,float64
+Kortyzol godz. 08:00 (KOR),121,0.09409020217729394,float64
+Kortyzol godz. 23:00 (KOR23),119,0.09253499222395023,float64
+Kortyzol na czczo (KORCZ),1285,0.9992223950233281,float64
+Kortyzol po Dexamethasonie (KORD),1057,0.8219284603421462,float64
+Kortyzol po Dexamethasonie [1mg] (KORD),886,0.6889580093312597,float64
+Kortyzol po Dexamethasonie [2mg] (KOR2DXM),749,0.5824261275272161,float64
+Kortyzol po Dexamethasonie [4mg] (KOR4DXM),1283,0.9976671850699844,float64
+Kreatynina (KREAT),1173,0.9121306376360808,float64
+Krzywa cukrowa - 2 punktowa (GLU120),137,0.10653188180404355,float64
+Krzywa cukrowa - 2 punktowa (L_GLU_0),136,0.1057542768273717,float64
+LDL cholesterol (LDL),117,0.09097978227060653,float64
+LH (LH),118,0.09175738724727839,float64
+LH 0' 30' 60' (LH0),1271,0.9883359253499222,float64
+LH 0' 30' 60' (L_LH30),1271,0.9883359253499222,float64
+LH 0' 30' 60' (L_LH60),1271,0.9883359253499222,float64
+LH IU/l,1286,1.0,float64
+Limf 10^3/uL,1286,1.0,float64
+MDRD GFR (MDRD),1182,0.9191290824261276,float64
+MPV fL,1286,1.0,float64
+Mocz - badanie ogólne (MBARWA),1279,0.994556765163297,object
+Mocz - badanie ogólne (MBIALK),1279,0.994556765163297,object
+Mocz - badanie ogólne (MBILI),1279,0.994556765163297,object
+Mocz - badanie ogólne (MCIEZA),1279,0.994556765163297,float64
+Mocz - badanie ogólne (MCUKIE),1279,0.994556765163297,object
+Mocz - badanie ogólne (MERY),1279,0.994556765163297,object
+Mocz - badanie ogólne (MKETON),1279,0.994556765163297,object
+Mocz - badanie ogólne (MLEU),1279,0.994556765163297,object
+Mocz - badanie ogólne (MNIT),1279,0.994556765163297,object
+Mocz - badanie ogólne (MOSAD),1286,1.0,float64
+Mocz - badanie ogólne (MPH),1279,0.994556765163297,float64
+Mocz - badanie ogólne (MPRZEJ),1279,0.994556765163297,object
+Mocz - badanie ogólne (MUROBI),1279,0.994556765163297,object
+Morfologia CBC (HCT),1242,0.9657853810264385,float64
+Morfologia CBC (HGB),1242,0.9657853810264385,float64
+Morfologia CBC (MCH),1242,0.9657853810264385,float64
+Morfologia CBC (MCHC),1242,0.9657853810264385,float64
+Morfologia CBC (MCV),1242,0.9657853810264385,float64
+Morfologia CBC (MPV),1242,0.9657853810264385,float64
+Morfologia CBC (NRBC_B),1242,0.9657853810264385,object
+Morfologia CBC (NRBC_P),1242,0.9657853810264385,object
+Morfologia CBC (PCT),1242,0.9657853810264385,float64
+Morfologia CBC (PDW),1242,0.9657853810264385,float64
+Morfologia CBC (PLCR),1242,0.9657853810264385,float64
+Morfologia CBC (PLT),1242,0.9657853810264385,float64
+Morfologia CBC (RBC),1242,0.9657853810264385,float64
+Morfologia CBC (RDW),1242,0.9657853810264385,float64
+Morfologia CBC (RDWSD),1242,0.9657853810264385,float64
+Morfologia CBC (WBC),1242,0.9657853810264385,float64
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (BASO)",385,0.29937791601866254,float64
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (BASOB)",385,0.29937791601866254,float64
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (EOS#)",385,0.29937791601866254,float64
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (EOS)",385,0.29937791601866254,float64
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (HCT)",385,0.29937791601866254,float64
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (HGB)",385,0.29937791601866254,float64
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (IG_B)",385,0.29937791601866254,float64
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (IG_P)",385,0.29937791601866254,float64
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (LIM#)",385,0.29937791601866254,float64
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (LIM)",385,0.29937791601866254,float64
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (MCH)",385,0.29937791601866254,float64
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (MCHC)",385,0.29937791601866254,float64
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (MCV)",385,0.29937791601866254,float64
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (MON#)",385,0.29937791601866254,float64
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (MON)",385,0.29937791601866254,float64
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (MPV)",385,0.29937791601866254,float64
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (NEUT#)",385,0.29937791601866254,float64
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (NEUT)",385,0.29937791601866254,float64
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (NRBC_B)",385,0.29937791601866254,object
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (NRBC_P)",384,0.2986003110419907,object
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (PCT)",385,0.29937791601866254,float64
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (PDW)",384,0.2986003110419907,float64
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (PLCR)",385,0.29937791601866254,float64
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (PLT)",385,0.29937791601866254,float64
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (RBC)",385,0.29937791601866254,float64
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (RDW)",385,0.29937791601866254,float64
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (RDWSD)",385,0.29937791601866254,float64
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (WBC)",385,0.29937791601866254,float64
+NLR,1286,1.0,float64
+Neu 10^3/uL,1286,1.0,float64
+Nr KG,0,0.0,float64
+P/c antytyreoglobulinowe (anty-Tg) (ANTYTG2),604,0.46967340590979784,float64
+P/c przeciw GAD (p/c p. dekarbosylazie kwasu glutaminowego) (PCGAD),1284,0.9984447900466563,float64
+P/c przeciw receptorowi TSH (TRAb) (O15) (TRAB),1284,0.9984447900466563,float64
+P/c przeciw receptorowi TSH (TRAb) (TRAB_2),1281,0.9961119751166407,float64
+PLR,1286,1.0,float64
+PLT 10^3/uL,1286,1.0,float64
+PRL 10:00 i 10:00 po PEG (PRL10),1285,0.9992223950233281,float64
+PRL 10:00 i 10:00 po PEG (PRL10PEG),1285,0.9992223950233281,float64
+"PRL 10:00, 10:00 po PEG, 16:00 (PRL10)",1261,0.9805598755832037,float64
+"PRL 10:00, 10:00 po PEG, 16:00 (PRL10PEG)",1261,0.9805598755832037,float64
+"PRL 10:00, 10:00 po PEG, 16:00 (PRL16)",1263,0.9821150855365475,float64
+PRL godz. 10:00 (PRL10),121,0.09409020217729394,float64
+PRL ng/ml,1286,1.0,float64
+Procent odzysku prolaktyny po precypitacji (MAKROPRL),1272,0.9891135303265941,float64
+Protrombina (PT) (PTAKT),1281,0.9961119751166407,float64
+Protrombina (PT) (PTCZAS),1281,0.9961119751166407,float64
+Protrombina (PT) (PTINR),1281,0.9961119751166407,object
+Przyjęcie na oddział zlecający,0,0.0,datetime64[ns]
+RDW %,1286,1.0,float64
+"RTG kości nadgarstka, PA, bok (nan)",1286,1.0,float64
+Rok KG,0,0.0,float64
+SHBG (L_SHGB),120,0.09331259720062209,float64
+SHBG (SHGB),1285,0.9992223950233281,float64
+SHBG nmol/l,1286,1.0,float64
+TK jamy brzusznej i miednicy z kontrastem (nan),1286,1.0,float64
+TK jamy brzusznej z kontrastem (nan),1286,1.0,float64
+TSH (TSH),118,0.09175738724727839,float64
+TSH uIU/ml,1286,1.0,float64
+Test Roma (CA125),1278,0.9937791601866252,float64
+Test Roma (HE4),1276,0.9922239502332815,float64
+Test Roma (I41),1284,0.9984447900466563,float64
+Test Roma (POMENOP),1278,0.9937791601866252,float64
+Test Roma (PRMENOP),1278,0.9937791601866252,float64
+Test Roma (ROMAPO),1284,0.9984447900466563,float64
+Test Roma (ROMAPR),1284,0.9984447900466563,float64
+Test z Synacthenem (L79_0),1234,0.9595645412130638,float64
+Test z Synacthenem (L79_1),1232,0.9580093312597201,float64
+Test z Synacthenem (L79_2),1232,0.9580093312597201,float64
+Testosteron (L_TESTOS),119,0.09253499222395023,float64
+Testosteron wolny (O41) (TEST-F),360,0.27993779160186627,float64
+Triglicerydy (TG),117,0.09097978227060653,float64
+USG brzucha i przestrzeni zaotrzewnowej (nan),1286,1.0,float64
+USG nadnerczy (nan),1286,1.0,float64
+USG piersi (nan),1286,1.0,float64
+USG tarczycy i przytarczyc (nan),1286,1.0,float64
+USG wątroby – elastografia (nan),1286,1.0,float64
+WBC 10^3/uL,1286,1.0,float64
+Wapń całkowity (TCAL),1284,0.9984447900466563,float64
+Wapń zjonizowany (surowica) (L_CAZJS),1285,0.9992223950233281,float64
+Witamina D (25- hydroksywitamina D3) (WITD),477,0.37091757387247276,object
+Wolny testosteron (O41.W),1097,0.8530326594090202,float64
+Wymaz z kanału szyjki macicy - posiew mykologiczny (DAT-ZAK),1284,0.9984447900466563,object
+Wymaz z kanału szyjki macicy - posiew mykologiczny (UWAGI),1284,0.9984447900466563,object
+Wymaz z kanału szyjki macicy - posiew mykologiczny (Wynik badania),1286,1.0,float64
+Wymaz z kanału szyjki macicy - posiew tlenowy (DAT-ZAK),1284,0.9984447900466563,object
+Wymaz z kanału szyjki macicy - posiew tlenowy (UWAGI),1284,0.9984447900466563,object
+Wymaz z kanału szyjki macicy - posiew tlenowy (Wynik badania),1286,1.0,float64
+Wypis z oddziału zlecającego,0,0.0,datetime64[ns]
+beta HCG (L_HCG),1265,0.9836702954898912,float64
+glu 0' mg/dl,1286,1.0,float64
+insulina uU/ml,1286,1.0,float64
+kortyzol 8.00 ug/dl,1286,1.0,float64
+testosteron ng/ml,1286,1.0,float64
+Żelazo (FE),1283,0.9976671850699844,float64
