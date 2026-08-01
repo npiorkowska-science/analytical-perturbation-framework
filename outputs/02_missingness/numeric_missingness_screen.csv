@@ -1,0 +1,225 @@
+column,non_missing,missing_pct,variance,drop_all_missing,drop_high_missing
+Wiek,1286,0.0,3.785028229783783,False,False
+group,0,1.0,,True,True
+subject_id,1286,0.0,167933206.55241844,False,False
+17 - OH progesteron (L79) (17-OHPG),965,0.24961119751166408,0.6850714502113507,False,False
+17 OH progesteron (L79),212,0.8351477449455676,1.0687274253548291,False,True
+ALAT (ALT),263,0.7954898911353032,169.5077091254753,False,True
+AMH (hormon anty-Mullerowski) (AMH_CP),976,0.2410575427682737,13.286965087825768,False,False
+AMH ng/ml,0,1.0,,True,True
+AMH-anty Mullerian Hormon (AMH),147,0.885692068429238,15.016343537414965,False,True
+APTT Czas kaolinowo-kefalinowy (APTTCZ),5,0.9961119751166407,10.908,False,True
+ASO - ilościowo (ASOIL),1,0.9992223950233281,,False,True
+ASPAT (AST),263,0.7954898911353032,60.265726569529505,False,True
+Androstendion (ANDRO),682,0.46967340590979784,0.5086859961523722,False,True
+Androstendion (I31),189,0.8530326594090202,2.6502549532815487,False,True
+Androstendion (I31) (ANDRO),255,0.8017107309486781,1.3293450424579283,False,True
+Anty - HCV (L_ANTHCV),0,1.0,,True,True
+Anty-TG (O18),21,0.9836702954898912,28747.97432619047,False,True
+Anty-TG (p/c przeciw tyreoglobulinie) (ATG),254,0.80248833592535,6121.131033974978,False,True
+Anty-TPO (ATA_TPO),1043,0.18895800933125972,3147.903626031509,False,False
+BMI kg/m2,0,1.0,,True,True
+Białko C-reaktywne (CRP),19,0.9852255054432348,169.53596491228072,False,True
+Bilirubina całkowita (TBIL),76,0.9409020217729394,0.09924187719298246,False,True
+CEA (CEA),1,0.9992223950233281,,False,True
+Ca125 (CA125),41,0.9681181959564541,109.56475402439023,False,True
+Ca19.9 (CA199),1,0.9992223950233281,,False,True
+Cholesterol całkowity (TCHOL),1169,0.09097978227060653,923.9136755012479,False,False
+D-dimery (DDIMER),2,0.9984447900466563,32.0,False,True
+DHEAS (DHEA),1171,0.08942457231726283,17572.56892170838,False,False
+DHEAS ug/dl,0,1.0,,True,True
+Dobowy rytm tolerancji glukozy (L_G1030),7,0.994556765163297,454.61904761904765,False,True
+Dobowy rytm tolerancji glukozy (L_G1200),7,0.994556765163297,261.80952380952385,False,True
+Dobowy rytm tolerancji glukozy (L_G1500),7,0.994556765163297,292.4761904761905,False,True
+Dobowy rytm tolerancji glukozy (L_G1800),7,0.994556765163297,514.6190476190476,False,True
+Dobowy rytm tolerancji glukozy (L_G2100),7,0.994556765163297,87.61904761904763,False,True
+Dobowy rytm tolerancji glukozy (L_G2400),7,0.994556765163297,341.9047619047619,False,True
+Dobowy rytm tolerancji glukozy (L_G330),7,0.994556765163297,73.66666666666667,False,True
+Dobowy rytm tolerancji glukozy (L_G700),7,0.994556765163297,53.0,False,True
+Dokument (NAZWA),18,0.9860031104199067,149603401110896.34,False,True
+Estradiol (ESTRA),57,0.9556765163297045,424.3968233082706,False,True
+Estradiol (L_ESTRA),34,0.973561430793157,536.4649643493761,False,True
+FSH (FSH),1168,0.09175738724727839,8.555765468018189,False,False
+FSH 0' 30' 60' (L_FSH0),15,0.9883359253499222,3.110755238095238,False,True
+FSH 0' 30' 60' (L_FSH30),15,0.9883359253499222,9.018038095238095,False,True
+FSH 0' 30' 60' (L_FSH60),15,0.9883359253499222,12.935752380952382,False,True
+FSH IU/l,0,1.0,,True,True
+FT3 (FT3),6,0.995334370139969,4.571586666666665,False,True
+FT4 (FT4),1167,0.09253499222395023,0.02788883378823889,False,False
+Ferrytyna (FERR),2,0.9984447900466563,1260.02,False,True
+Ferrytyna (L05),1,0.9992223950233281,,False,True
+Fibrynogen (L_FIB),3,0.9976671850699844,2044.0,False,True
+Fosforany nieorganiczne (FOSFOR),2,0.9984447900466563,0.008449999999999985,False,True
+GH (hormon wzrostu) (L_GH),1,0.9992223950233281,,False,True
+Gamma Glutamylotranspeptydaza (GGTP),77,0.9401244167962675,80.95370379357485,False,True
+Glukoza (L_GLU),2,0.9984447900466563,163.8049999999999,False,True
+"Grypa A, B, RSV, SARS-CoV2 antygen - badanie jakościowe (COV2_G)",0,1.0,,True,True
+"Grypa A, B, RSV, SARS-CoV2 antygen - badanie jakościowe (GRYA)",0,1.0,,True,True
+"Grypa A, B, RSV, SARS-CoV2 antygen - badanie jakościowe (GRYB)",0,1.0,,True,True
+"Grypa A, B, RSV, SARS-CoV2 antygen - badanie jakościowe (GRYRSV)",0,1.0,,True,True
+HBSAG (L_HBSAG),0,1.0,,True,True
+HBsAg (L_HBSAG),0,1.0,,True,True
+HDL cholesterol (HDL),1169,0.09097978227060653,195.96271735882442,False,False
+HbsAg (HBSAG),0,1.0,,True,True
+Hemoglobina glikowana (HBA1C_1),23,0.9821150855365475,0.8512521739130432,False,True
+Hemoglobina glikowana (HBA1C_2),23,0.9821150855365475,101.55529644268776,False,True
+Hemoglobina glikowana (L53.IFC),4,0.9968895800933126,179.0,False,True
+Hemoglobina glikowana (L55),4,0.9968895800933126,1.4158333333333328,False,True
+IGF-1 (insulinopodobny czynnik wzrostu 1) (IGF1_L),1,0.9992223950233281,,False,True
+Insulina (INSUL),744,0.4214618973561431,34.47481740093924,False,False
+Insulina po 75g glukozy (3pkt.) (INSUL_0),222,0.8273716951788491,87.61402745913335,False,True
+Insulina po 75g glukozy (3pkt.) (INSUL_1),221,0.828149300155521,2866.994960983134,False,True
+Insulina po 75g glukozy (3pkt.) (INSUL_2),221,0.828149300155521,3224.64422315508,False,True
+"Insulina po obciążeniu 75 g glukozy 0,1,2,3 (L97 0m)",83,0.9354587869362364,22.336109315310022,False,True
+"Insulina po obciążeniu 75 g glukozy 0,1,2,3 (L97 120m)",83,0.9354587869362364,1952.3255451072587,False,True
+"Insulina po obciążeniu 75 g glukozy 0,1,2,3 (L97 30m)",83,0.9354587869362364,2878.7549103732,False,True
+"Insulina po obciążeniu 75 g glukozy 0,1,2,3 (L97 60m)",83,0.9354587869362364,2845.6589685571553,False,True
+"Insulina po obciążeniu 75 g glukozy 0,1,2,3 (L97_0)",62,0.9517884914463453,16.765713907985194,False,True
+"Insulina po obciążeniu 75 g glukozy 0,1,2,3 (L97_1)",61,0.9525660964230172,1735.8235683060107,False,True
+"Insulina po obciążeniu 75 g glukozy 0,1,2,3 (L97_2)",62,0.9517884914463453,1559.7539079851929,False,True
+"Jonogram (Sód, potas, chlorki) (L_CI)",84,0.9346811819595645,3.556844520940908,False,True
+"Jonogram (Sód, potas, chlorki) (L_K)",84,0.9346811819595645,0.1323324727481354,False,True
+"Jonogram (Sód, potas, chlorki) (L_NA)",84,0.9346811819595645,4.125580895008608,False,True
+Kortyzol godz. 08:00 (KOR),1165,0.09409020217729394,16.963005600858367,False,False
+Kortyzol godz. 23:00 (KOR23),1167,0.09253499222395023,6.529896959408314,False,False
+Kortyzol na czczo (KORCZ),1,0.9992223950233281,,False,True
+Kortyzol po Dexamethasonie (KORD),229,0.8219284603421462,0.8404459721903013,False,True
+Kortyzol po Dexamethasonie [1mg] (KORD),400,0.6889580093312597,1.2424829974937341,False,True
+Kortyzol po Dexamethasonie [2mg] (KOR2DXM),537,0.5824261275272161,0.06631802996192224,False,True
+Kortyzol po Dexamethasonie [4mg] (KOR4DXM),3,0.9976671850699844,0.00583333333333334,False,True
+Kreatynina (KREAT),113,0.9121306376360808,0.01106923198482933,False,True
+Krzywa cukrowa - 2 punktowa (GLU120),1149,0.10653188180404355,876.9081601786738,False,False
+Krzywa cukrowa - 2 punktowa (L_GLU_0),1150,0.1057542768273717,36.6813325859916,False,False
+LDL cholesterol (LDL),1169,0.09097978227060653,690.48125082848,False,False
+LH (LH),1168,0.09175738724727839,28.10902032433004,False,False
+LH 0' 30' 60' (LH0),15,0.9883359253499222,3.719769523809524,False,True
+LH 0' 30' 60' (L_LH30),15,0.9883359253499222,247.10564000000005,False,True
+LH 0' 30' 60' (L_LH60),15,0.9883359253499222,136.89218380952383,False,True
+LH IU/l,0,1.0,,True,True
+Limf 10^3/uL,0,1.0,,True,True
+MDRD GFR (MDRD),104,0.9191290824261276,0.0,False,True
+MPV fL,0,1.0,,True,True
+Mocz - badanie ogólne (MBARWA),0,1.0,,True,True
+Mocz - badanie ogólne (MBIALK),0,1.0,,True,True
+Mocz - badanie ogólne (MBILI),0,1.0,,True,True
+Mocz - badanie ogólne (MCIEZA),7,0.994556765163297,248438.42303958334,False,True
+Mocz - badanie ogólne (MCUKIE),0,1.0,,True,True
+Mocz - badanie ogólne (MERY),2,0.9984447900466563,25312.5,False,True
+Mocz - badanie ogólne (MKETON),0,1.0,,True,True
+Mocz - badanie ogólne (MLEU),3,0.9976671850699844,212366875.0,False,True
+Mocz - badanie ogólne (MNIT),0,1.0,,True,True
+Mocz - badanie ogólne (MOSAD),0,1.0,,True,True
+Mocz - badanie ogólne (MPH),7,0.994556765163297,0.7023809523809522,False,True
+Mocz - badanie ogólne (MPRZEJ),0,1.0,,True,True
+Mocz - badanie ogólne (MUROBI),0,1.0,,True,True
+Morfologia CBC (HCT),44,0.9657853810264385,8.930443974630021,False,True
+Morfologia CBC (HGB),44,0.9657853810264385,1.4660200845665963,False,True
+Morfologia CBC (MCH),44,0.9657853810264385,4.715618393234673,False,True
+Morfologia CBC (MCHC),44,0.9657853810264385,1.659297040169132,False,True
+Morfologia CBC (MCV),44,0.9657853810264385,21.85342494714588,False,True
+Morfologia CBC (MPV),44,0.9657853810264385,0.7290644820295984,False,True
+Morfologia CBC (NRBC_B),44,0.9657853810264385,0.0,False,True
+Morfologia CBC (NRBC_P),44,0.9657853810264385,0.0,False,True
+Morfologia CBC (PCT),44,0.9657853810264385,0.0039858350951374215,False,True
+Morfologia CBC (PDW),44,0.9657853810264385,3.5972093023255813,False,True
+Morfologia CBC (PLCR),44,0.9657853810264385,49.65608350951374,False,True
+Morfologia CBC (PLT),44,0.9657853810264385,3911.6511627906975,False,True
+Morfologia CBC (RBC),44,0.9657853810264385,0.1401511099365751,False,True
+Morfologia CBC (RDW),44,0.9657853810264385,1.6883720930232564,False,True
+Morfologia CBC (RDWSD),44,0.9657853810264385,8.810755813953488,False,True
+Morfologia CBC (WBC),44,0.9657853810264385,3.817620877378435,False,True
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (BASO)",901,0.29937791601866254,0.0781673942532988,False,False
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (BASOB)",901,0.29937791601866254,0.0003238550992724134,False,False
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (EOS#)",901,0.29937791601866254,0.014590857319028242,False,False
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (EOS)",901,0.29937791601866254,3.316707658157603,False,False
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (HCT)",901,0.29937791601866254,8.044560776092407,False,False
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (HGB)",901,0.29937791601866254,1.0335320754716981,False,False
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (IG_B)",901,0.29937791601866254,0.000124045011715378,False,False
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (IG_P)",901,0.29937791601866254,0.020230607966457023,False,False
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (LIM#)",901,0.29937791601866254,0.40115004554610106,False,False
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (LIM)",901,0.29937791601866254,62.61554758909854,False,False
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (MCH)",901,0.29937791601866254,2.932760217042792,False,False
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (MCHC)",901,0.29937791601866254,0.8945138488099643,False,False
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (MCV)",901,0.29937791601866254,15.245810802811691,False,False
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (MON#)",901,0.29937791601866254,0.021651681341719076,False,False
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (MON)",901,0.29937791601866254,3.4092239980268833,False,False
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (MPV)",901,0.29937791601866254,0.7796371192502158,False,False
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (NEUT#)",901,0.29937791601866254,1.2284146711061783,False,False
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (NEUT)",901,0.29937791601866254,68.16713085871665,False,False
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (NRBC_B)",900,0.3001555209953344,5.177481151897169e-06,False,False
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (NRBC_P)",901,0.29937791601866254,0.0015287705019114564,False,False
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (PCT)",901,0.29937791601866254,0.0026378962880749786,False,False
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (PDW)",902,0.2986003110419907,3.695744304527093,False,False
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (PLCR)",901,0.29937791601866254,53.360189016319325,False,False
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (PLT)",901,0.29937791601866254,2899.247122127677,False,False
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (RBC)",901,0.29937791601866254,0.12195481999424508,False,False
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (RDW)",901,0.29937791601866254,0.881832482426933,False,False
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (RDWSD)",901,0.29937791601866254,7.676608583055863,False,False
+"Morfologia krwi, z pełnym różnicowaniem granulocytów (leukocytów) z rozmazem - 5 Diff (WBC)",901,0.29937791601866254,2.239443941053151,False,False
+NLR,0,1.0,,True,True
+Neu 10^3/uL,0,1.0,,True,True
+Nr KG,1286,0.0,167933206.55241844,False,False
+P/c antytyreoglobulinowe (anty-Tg) (ANTYTG2),682,0.46967340590979784,11207.59637155985,False,True
+P/c przeciw GAD (p/c p. dekarbosylazie kwasu glutaminowego) (PCGAD),2,0.9984447900466563,0.0,False,True
+P/c przeciw receptorowi TSH (TRAb) (O15) (TRAB),2,0.9984447900466563,17.34605,False,True
+P/c przeciw receptorowi TSH (TRAb) (TRAB_2),5,0.9961119751166407,0.0037999999999999944,False,True
+PLR,0,1.0,,True,True
+PLT 10^3/uL,0,1.0,,True,True
+PRL 10:00 i 10:00 po PEG (PRL10),1,0.9992223950233281,,False,True
+PRL 10:00 i 10:00 po PEG (PRL10PEG),1,0.9992223950233281,,False,True
+"PRL 10:00, 10:00 po PEG, 16:00 (PRL10)",25,0.9805598755832037,305.1967143333333,False,True
+"PRL 10:00, 10:00 po PEG, 16:00 (PRL10PEG)",25,0.9805598755832037,306.20464099999987,False,True
+"PRL 10:00, 10:00 po PEG, 16:00 (PRL16)",23,0.9821150855365475,169.444481027668,False,True
+PRL godz. 10:00 (PRL10),1165,0.09409020217729394,32.67647183487456,False,False
+PRL ng/ml,0,1.0,,True,True
+Procent odzysku prolaktyny po precypitacji (MAKROPRL),14,0.9891135303265941,721.6014835164837,False,True
+Protrombina (PT) (PTAKT),5,0.9961119751166407,52.3,False,True
+Protrombina (PT) (PTCZAS),5,0.9961119751166407,0.4049999999999999,False,True
+Protrombina (PT) (PTINR),5,0.9961119751166407,0.003629999999999994,False,True
+Przyjęcie na oddział zlecający,0,1.0,,True,True
+RDW %,0,1.0,,True,True
+"RTG kości nadgarstka, PA, bok (nan)",0,1.0,,True,True
+Rok KG,1286,0.0,3.649462333056986,False,False
+SHBG (L_SHGB),1166,0.09331259720062209,977.381878828687,False,False
+SHBG (SHGB),1,0.9992223950233281,,False,True
+SHBG nmol/l,0,1.0,,True,True
+TK jamy brzusznej i miednicy z kontrastem (nan),0,1.0,,True,True
+TK jamy brzusznej z kontrastem (nan),0,1.0,,True,True
+TSH (TSH),1168,0.09175738724727839,1.0543267296516063,False,False
+TSH uIU/ml,0,1.0,,True,True
+Test Roma (CA125),8,0.9937791601866252,29.228571428571424,False,True
+Test Roma (HE4),10,0.9922239502332815,78.61377777777777,False,True
+Test Roma (I41),2,0.9984447900466563,3.9199999999999973,False,True
+Test Roma (POMENOP),8,0.9937791601866252,5.009769642857145,False,True
+Test Roma (PRMENOP),8,0.9937791601866252,1.9933696428571428,False,True
+Test Roma (ROMAPO),2,0.9984447900466563,9.245000000000003,False,True
+Test Roma (ROMAPR),2,0.9984447900466563,11.52,False,True
+Test z Synacthenem (L79_0),52,0.9595645412130638,1.0177177601809955,False,True
+Test z Synacthenem (L79_1),54,0.9580093312597201,1.9596668413696716,False,True
+Test z Synacthenem (L79_2),54,0.9580093312597201,2.1027503843466104,False,True
+Testosteron (L_TESTOS),1167,0.09253499222395023,0.03731339611434224,False,False
+Testosteron wolny (O41) (TEST-F),926,0.27993779160186627,5.462435701272546,False,False
+Triglicerydy (TG),1169,0.09097978227060653,1887.3066493578403,False,False
+USG brzucha i przestrzeni zaotrzewnowej (nan),0,1.0,,True,True
+USG nadnerczy (nan),0,1.0,,True,True
+USG piersi (nan),0,1.0,,True,True
+USG tarczycy i przytarczyc (nan),0,1.0,,True,True
+USG wątroby – elastografia (nan),0,1.0,,True,True
+WBC 10^3/uL,0,1.0,,True,True
+Wapń całkowity (TCAL),2,0.9984447900466563,0.28125,False,True
+Wapń zjonizowany (surowica) (L_CAZJS),1,0.9992223950233281,,False,True
+Witamina D (25- hydroksywitamina D3) (WITD),808,0.37169517884914466,121.46266741736908,False,False
+Wolny testosteron (O41.W),189,0.8530326594090202,4.961370567375886,False,True
+Wymaz z kanału szyjki macicy - posiew mykologiczny (DAT-ZAK),0,1.0,,True,True
+Wymaz z kanału szyjki macicy - posiew mykologiczny (UWAGI),0,1.0,,True,True
+Wymaz z kanału szyjki macicy - posiew mykologiczny (Wynik badania),0,1.0,,True,True
+Wymaz z kanału szyjki macicy - posiew tlenowy (DAT-ZAK),0,1.0,,True,True
+Wymaz z kanału szyjki macicy - posiew tlenowy (UWAGI),0,1.0,,True,True
+Wymaz z kanału szyjki macicy - posiew tlenowy (Wynik badania),0,1.0,,True,True
+Wypis z oddziału zlecającego,0,1.0,,True,True
+beta HCG (L_HCG),21,0.9836702954898912,0.11107619047619048,False,True
+glu 0' mg/dl,0,1.0,,True,True
+insulina uU/ml,0,1.0,,True,True
+kortyzol 8.00 ug/dl,0,1.0,,True,True
+testosteron ng/ml,0,1.0,,True,True
+Żelazo (FE),3,0.9976671850699844,977.5833333333333,False,True
